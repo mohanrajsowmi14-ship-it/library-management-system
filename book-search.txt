@@ -1,0 +1,6 @@
+Book Search Module
+
+This module allows users to search books by:
+- Book title
+- Author name
+- Book availability
